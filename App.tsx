@@ -61,6 +61,8 @@ const App: React.FC = () => {
         return <TravelAdvisoryView />;
       case 'SupplierMock':
         return <SupplierView />;
+      case '----------':
+        return null;
       case 'SupplierTest':
         return <SupplierTestView />;
     }
