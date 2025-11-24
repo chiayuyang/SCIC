@@ -1,0 +1,218 @@
+[
+    {
+        "Alpha2":  "GU",
+        "StateName":  "Guam"
+    },
+    {
+        "Alpha2":  "VI",
+        "StateName":  "Virgin Islands"
+    },
+    {
+        "Alpha2":  "AL",
+        "StateName":  "Alabama"
+    },
+    {
+        "Alpha2":  "AK",
+        "StateName":  "Alaska"
+    },
+    {
+        "Alpha2":  "AZ",
+        "StateName":  "Arizona"
+    },
+    {
+        "Alpha2":  "AR",
+        "StateName":  "Arkansas"
+    },
+    {
+        "Alpha2":  "CA",
+        "StateName":  "California"
+    },
+    {
+        "Alpha2":  "CO",
+        "StateName":  "Colorado"
+    },
+    {
+        "Alpha2":  "CT",
+        "StateName":  "Connecticut"
+    },
+    {
+        "Alpha2":  "DE",
+        "StateName":  "Delaware"
+    },
+    {
+        "Alpha2":  "DC",
+        "StateName":  "District of Columbia"
+    },
+    {
+        "Alpha2":  "FL",
+        "StateName":  "Florida"
+    },
+    {
+        "Alpha2":  "GA",
+        "StateName":  "Georgia"
+    },
+    {
+        "Alpha2":  "HI",
+        "StateName":  "Hawaii"
+    },
+    {
+        "Alpha2":  "ID",
+        "StateName":  "Idaho"
+    },
+    {
+        "Alpha2":  "IL",
+        "StateName":  "Illinois"
+    },
+    {
+        "Alpha2":  "IN",
+        "StateName":  "Indiana"
+    },
+    {
+        "Alpha2":  "IA",
+        "StateName":  "Iowa"
+    },
+    {
+        "Alpha2":  "KS",
+        "StateName":  "Kansas"
+    },
+    {
+        "Alpha2":  "KY",
+        "StateName":  "Kentucky"
+    },
+    {
+        "Alpha2":  "LA",
+        "StateName":  "Louisiana"
+    },
+    {
+        "Alpha2":  "ME",
+        "StateName":  "Maine"
+    },
+    {
+        "Alpha2":  "MD",
+        "StateName":  "Maryland"
+    },
+    {
+        "Alpha2":  "MA",
+        "StateName":  "Massachusetts"
+    },
+    {
+        "Alpha2":  "MI",
+        "StateName":  "Michigan"
+    },
+    {
+        "Alpha2":  "MN",
+        "StateName":  "Minnesota"
+    },
+    {
+        "Alpha2":  "MS",
+        "StateName":  "Mississippi"
+    },
+    {
+        "Alpha2":  "MO",
+        "StateName":  "Missouri"
+    },
+    {
+        "Alpha2":  "MT",
+        "StateName":  "Montana"
+    },
+    {
+        "Alpha2":  "NE",
+        "StateName":  "Nebraska"
+    },
+    {
+        "Alpha2":  "NV",
+        "StateName":  "Nevada"
+    },
+    {
+        "Alpha2":  "NH",
+        "StateName":  "New Hampshire"
+    },
+    {
+        "Alpha2":  "NJ",
+        "StateName":  "New Jersey"
+    },
+    {
+        "Alpha2":  "NM",
+        "StateName":  "New Mexico"
+    },
+    {
+        "Alpha2":  "NY",
+        "StateName":  "New York"
+    },
+    {
+        "Alpha2":  "NC",
+        "StateName":  "North Carolina"
+    },
+    {
+        "Alpha2":  "ND",
+        "StateName":  "North Dakota"
+    },
+    {
+        "Alpha2":  "OH",
+        "StateName":  "Ohio"
+    },
+    {
+        "Alpha2":  "OK",
+        "StateName":  "Oklahoma"
+    },
+    {
+        "Alpha2":  "OR",
+        "StateName":  "Oregon"
+    },
+    {
+        "Alpha2":  "PA",
+        "StateName":  "Pennsylvania"
+    },
+    {
+        "Alpha2":  "PR",
+        "StateName":  "Puerto Rico"
+    },
+    {
+        "Alpha2":  "RI",
+        "StateName":  "Rhode Island"
+    },
+    {
+        "Alpha2":  "SC",
+        "StateName":  "South Carolina"
+    },
+    {
+        "Alpha2":  "SD",
+        "StateName":  "South Dakota"
+    },
+    {
+        "Alpha2":  "TN",
+        "StateName":  "Tennessee"
+    },
+    {
+        "Alpha2":  "TX",
+        "StateName":  "Texas"
+    },
+    {
+        "Alpha2":  "UT",
+        "StateName":  "Utah"
+    },
+    {
+        "Alpha2":  "VT",
+        "StateName":  "Vermont"
+    },
+    {
+        "Alpha2":  "VA",
+        "StateName":  "Virginia"
+    },
+    {
+        "Alpha2":  "WA",
+        "StateName":  "Washington"
+    },
+    {
+        "Alpha2":  "WV",
+        "StateName":  "West Virginia"
+    },
+    {
+        "Alpha2":  "WI",
+        "StateName":  "Wisconsin"
+    },
+    {
+        "Alpha2":  "WY",
+        "StateName":  "Wyoming"
+    }
+]

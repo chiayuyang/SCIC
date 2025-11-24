@@ -1,5 +1,5 @@
 import React from 'react';
-import { UserRole } from '../types';
+import { UserRole } from '../modules/types';
 import RoleSwitcher from './RoleSwitcher';
 
 interface HeaderProps {

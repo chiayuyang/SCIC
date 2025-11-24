@@ -1,7 +1,7 @@
 import React from 'react';
-import { Contract, Supplier } from '../types';
-import ArrowLeftIcon from './icons/ArrowLeftIcon';
-import ContractIcon from './icons/ContractIcon';
+import { Contract, Supplier } from '../modules/types';
+import ArrowLeftIcon from '../icons/ArrowLeftIcon';
+import ContractIcon from '../icons/ContractIcon';
 
 interface ContractDetailProps {
   contract: Contract;

@@ -1,0 +1,50 @@
+[
+    {
+        "Code":  "1",
+        "Description":  "Proposed Debarment"
+    },
+    {
+        "Code":  "2",
+        "Description":  "Suspended"
+    },
+    {
+        "Code":  "A",
+        "Description":  "Active"
+    },
+    {
+        "Code":  "C",
+        "Description":  "Restraint"
+    },
+    {
+        "Code":  "E",
+        "Description":  "Debarred"
+    },
+    {
+        "Code":  "F",
+        "Description":  "Obsolete"
+    },
+    {
+        "Code":  "J",
+        "Description":  "Specialized Use"
+    },
+    {
+        "Code":  "N",
+        "Description":  "Cancelled"
+    },
+    {
+        "Code":  "P",
+        "Description":  "Cancelled Without Replacement"
+    },
+    {
+        "Code":  "R",
+        "Description":  "Cancelled/Replaced"
+    },
+    {
+        "Code":  "W",
+        "Description":  "Active With Restraint"
+    },
+    {
+        "Code":  "Y",
+        "Description":  "Active Specialized Use"
+    }
+]

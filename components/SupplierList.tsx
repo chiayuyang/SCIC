@@ -1,7 +1,7 @@
 import React from 'react';
-import { Supplier, UserRole } from '../types';
+import { Supplier, UserRole } from '../modules/types';
 // fix: Use named import for TrashIcon as it is a named export.
-import { TrashIcon } from './icons/TrashIcon';
+import { TrashIcon } from '../icons/TrashIcon';
 
 interface SupplierListProps {
   suppliers: Supplier[];

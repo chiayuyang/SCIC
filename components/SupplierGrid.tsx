@@ -1,5 +1,5 @@
 import React from 'react';
-import { Supplier } from '../types';
+import { Supplier } from '../modules/types';
 // fix: Use SupplierCardB as its props match the usage in this component.
 import SupplierCardB from './SupplierCardB';
 

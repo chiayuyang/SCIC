@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Supplier } from '../types';
+import { Supplier } from '../modules/types';
 
 interface AddSupplierModalProps {
   allSuppliers: Supplier[];

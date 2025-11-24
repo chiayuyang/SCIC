@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { UserRole } from '../types';
-import UserIcon from './icons/UserIcon';
-import ChevronDownIcon from './icons/ChevronDownIcon';
+import { UserRole } from '../modules/types';
+import UserIcon from '../icons/UserIcon';
+import ChevronDownIcon from '../icons/ChevronDownIcon';
 
 interface RoleSwitcherProps {
   currentRole: UserRole;

@@ -1,9 +1,9 @@
 import React, { useState, useCallback, useEffect, useMemo } from 'react';
-import { TravelAdvisory } from '../types';
+import { TravelAdvisory } from '../modules/types';
 import { fetchTravelAdvisories } from '../services/mockDataService';
 import Button from '../components/Button';
-import { ArrowDownTrayIcon } from '../components/icons/ArrowDownTrayIcon';
-import { DocumentDuplicateIcon } from '../components/icons/DocumentDuplicateIcon';
+import { ArrowDownTrayIcon } from '../icons/ArrowDownTrayIcon';
+import { DocumentDuplicateIcon } from '../icons/DocumentDuplicateIcon';
 import TravelAdvisoryCard from '../components/TravelAdvisoryCard';
 import TravelAdvisoryCardSkeleton from '../components/TravelAdvisoryCardSkeleton';
 import TravelAdvisoryFilter from '../components/TravelAdvisoryFilter';

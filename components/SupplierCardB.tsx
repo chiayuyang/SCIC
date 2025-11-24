@@ -1,9 +1,9 @@
 import React from 'react';
-import { Supplier } from '../types';
-import LocationIcon from './icons/LocationIcon';
-import CategoryIcon from './icons/CategoryIcon';
+import { Supplier } from '../modules/types';
+import LocationIcon from '../icons/LocationIcon';
+import CategoryIcon from '../icons/CategoryIcon';
 // fix: Use named import for TrashIcon as it is a named export.
-import { TrashIcon } from './icons/TrashIcon';
+import { TrashIcon } from '../icons/TrashIcon';
 
 interface SupplierCardProps {
   supplier: Supplier;

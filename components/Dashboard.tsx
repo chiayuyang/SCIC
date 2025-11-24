@@ -1,5 +1,5 @@
 import React from 'react';
-import { Supplier } from '../types';
+import { Supplier } from '../modules/types';
 import PieChart from '../charts/PieChart';
 
 interface DashboardProps {

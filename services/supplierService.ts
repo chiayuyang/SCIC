@@ -1,4 +1,4 @@
-import { Supplier, Contract } from '../types';
+import { Supplier, Contract } from '../modules/types';
 
 // Mock Data
 let suppliers: Supplier[] = [

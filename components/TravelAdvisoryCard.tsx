@@ -1,5 +1,5 @@
 import React from 'react';
-import { TravelAdvisory } from '../types';
+import { TravelAdvisory } from '../modules/types';
 
 interface TravelAdvisoryCardProps {
   advisory: TravelAdvisory;
@@ -24,13 +24,13 @@ const TravelAdvisoryCard: React.FC<TravelAdvisoryCardProps> = ({ advisory }) => 
         <div className="mb-3">
           <h3 className="text-xl font-bold text-blue-300 mb-2">{advisory.country}</h3>
           <span className={`px-2 inline-flex text-xs leading-5 font-semibold rounded-full ${levelInfo.color}`}>
-              {levelInfo.text}
+              {levelInfo.text}&nbsp;&nbsp;
+          </span>
+          <span className="text-xs text-gray-400 mb-4">
+            Updated: {new Date(advisory.lastUpdated).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
           </span>
         </div>
         <p className="text-sm text-gray-200 flex-grow mb-4 line-clamp-3">{advisory.details}</p>
-        <div className="text-xs text-gray-400 mb-4">
-          Last Updated: {new Date(advisory.lastUpdated).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
-        </div>
         <div className="mt-auto pt-4 border-t border-gray-700">
            <a
               href={advisory.link}

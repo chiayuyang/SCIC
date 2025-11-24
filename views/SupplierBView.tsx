@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
-import { Supplier, Contract, UserRole } from '../types';
+import { Supplier, Contract, UserRole } from '../modules/types';
 import { getSuppliers, getContracts, removeSupplier, addSupplier, updateSupplier } from '../services/supplierService';
 
 import SearchBar from '../components/SearchBar';

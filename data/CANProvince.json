@@ -1,0 +1,54 @@
+[
+    {
+        "Alpha2":  "AB",
+        "ProvinceName":  "Alberta"
+    },
+    {
+        "Alpha2":  "BC",
+        "ProvinceName":  "British Columbia"
+    },
+    {
+        "Alpha2":  "MB",
+        "ProvinceName":  "Manitoba"
+    },
+    {
+        "Alpha2":  "NB",
+        "ProvinceName":  "New Brunswick"
+    },
+    {
+        "Alpha2":  "NL",
+        "ProvinceName":  "Newfoundland and Labrador"
+    },
+    {
+        "Alpha2":  "NT",
+        "ProvinceName":  "Northwest Territories"
+    },
+    {
+        "Alpha2":  "NS",
+        "ProvinceName":  "Nova Scotia"
+    },
+    {
+        "Alpha2":  "NU",
+        "ProvinceName":  "Nunavut"
+    },
+    {
+        "Alpha2":  "ON",
+        "ProvinceName":  "Ontario"
+    },
+    {
+        "Alpha2":  "PE",
+        "ProvinceName":  "Prince Edward Island"
+    },
+    {
+        "Alpha2":  "QC",
+        "ProvinceName":  "Quebec"
+    },
+    {
+        "Alpha2":  "SK",
+        "ProvinceName":  "Saskatchewan"
+    },
+    {
+        "Alpha2":  "YT",
+        "ProvinceName":  "Yukon"
+    }
+]

@@ -1,5 +1,5 @@
 {
   "name": "SCIC",
-  "description": "Try to create an app for SCIC",
+  "description": "A web application to browse, search, and view active SCIC suppliers for NASA, fetched from the official API. It features pagination and a search functionality to easily navigate through the supplier data.",
   "requestFramePermissions": []
 }

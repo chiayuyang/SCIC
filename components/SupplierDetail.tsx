@@ -1,12 +1,12 @@
 import React from 'react';
-import { Supplier, Contract, UserRole } from '../types';
-import ArrowLeftIcon from './icons/ArrowLeftIcon';
-import LocationIcon from './icons/LocationIcon';
-import CategoryIcon from './icons/CategoryIcon';
-import IdentifierIcon from './icons/IdentifierIcon';
-import ContractIcon from './icons/ContractIcon';
-import HierarchyIcon from './icons/HierarchyIcon';
-import EditIcon from './icons/EditIcon';
+import { Supplier, Contract, UserRole } from '../modules/types';
+import ArrowLeftIcon from '../icons/ArrowLeftIcon';
+import LocationIcon from '../icons/LocationIcon';
+import CategoryIcon from '../icons/CategoryIcon';
+import IdentifierIcon from '../icons/IdentifierIcon';
+import ContractIcon from '../icons/ContractIcon';
+import HierarchyIcon from '../icons/HierarchyIcon';
+import EditIcon from '../icons/EditIcon';
 
 interface SupplierDetailProps {
   supplier: Supplier;

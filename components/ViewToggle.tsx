@@ -1,6 +1,6 @@
 import React from 'react';
-import DashboardIcon from './icons/DashboardIcon';
-import ListIcon from './icons/ListIcon';
+import DashboardIcon from '../icons/DashboardIcon';
+import ListIcon from '../icons/ListIcon';
 
 type View = 'dashboard' | 'list';
 

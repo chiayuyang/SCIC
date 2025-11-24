@@ -1,32 +1,26 @@
+
 import React, { useState } from 'react';
-import { ViewType, UserRole } from './types';
+import { ViewType, UserRole } from './modules/types';
 import Header from './components/Header';
 import Sidebar from './components/Sidebar';
 
-import SupplierCardView from './views/SupplierCardView';
+import SupplierDataView from './views/SupplierDataView';
 import TravelAdvisoryView from './views/TravelAdvisoryView';
-import SupplierView from './views/SupplierView';
 import SupplierBView from './views/SupplierBView';
 
 const App: React.FC = () => {
-  const [activeView, setActiveView] = useState<ViewType>('Suppliers');
+  const [activeView, setActiveView] = useState<ViewType>('TravelAdvisories');
   const [isSidebarCollapsed, setIsSidebarCollapsed] = useState(window.innerWidth < 1024);
   const [currentRole, setCurrentRole] = useState<UserRole>('SCIC Contributor');
 
   const renderView = () => {
     switch (activeView) {
-      case 'SupplierInfo':
-        return <SupplierCardView />;
+      case 'SupplierData':
+        return <SupplierDataView />;
       case 'TravelAdvisories':
         return <TravelAdvisoryView />;
-      case 'SupplierMock':
-        return <SupplierView />;
       case 'Suppliers':
         return <SupplierBView currentUserRole={currentRole} />;
-      // case '----------':
-      //   return null;
-      // case 'SupplierTest':
-      //   return <SupplierTestView />;
     }
   };
 
